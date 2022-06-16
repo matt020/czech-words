@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/czech-words/static/css/main.6db62f59.css",
-    "main.js": "/czech-words/static/js/main.57990dc4.js",
+    "main.js": "/czech-words/static/js/main.cccb5795.js",
     "index.html": "/czech-words/index.html",
     "main.6db62f59.css.map": "/czech-words/static/css/main.6db62f59.css.map",
-    "main.57990dc4.js.map": "/czech-words/static/js/main.57990dc4.js.map"
+    "main.cccb5795.js.map": "/czech-words/static/js/main.cccb5795.js.map"
   },
   "entrypoints": [
     "static/css/main.6db62f59.css",
-    "static/js/main.57990dc4.js"
+    "static/js/main.cccb5795.js"
   ]
 }
